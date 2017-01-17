@@ -13,7 +13,7 @@ namespace Open_Kerk
         {
             InitializeComponent();
 
-            MainPage = new Open_Kerk.MainPage();
+            MainPage = new Open_Kerk.MenuPage();
         }
 
         protected override void OnStart()
